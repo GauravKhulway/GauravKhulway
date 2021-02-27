@@ -18,7 +18,7 @@
 
 ## :man_student: Student at Delhi Technological University!
 - Class of 2022
-- Engineering Physics(Majors in Electronics and Minors in Computer Science🖥)
+- B.Tech in Engineering Physics(Majors in Electronics and Minors in Computer Science🖥)
 - Having a keen interest in the field of Computer Science.
 
 ## 🖥️ Languages and Tools:

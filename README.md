@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Web Development and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on Open Source Projects of Web Development.
 - 🤔 I’m looking for help with ReactJS & NodeJS.
-- 💬 Ask me about C++,JS,Java,HTML & CSS.
+- 💬 Ask me about C++ & Data Structures And Algorithms.
 - 📫 How to reach me: gauravkhulway1@gmail.com
 
 ## :man_student: Student at Delhi Technological University!

@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects of Web Development.
 - 🤔 I’m looking for help with ReactJS & NodeJS.
 - 💬 Ask me about C++ & Data Structures And Algorithms.
-- 📫 How to reach me: gauravkhulway1@gmail.com
+- 📫 How to reach me: gauravkhulway16@gmail.com
 
 ## :man_student: Student at Delhi Technological University!
 - Class of 2022
